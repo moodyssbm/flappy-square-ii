@@ -1,0 +1,22 @@
+{
+  "name": "flappy-square-ii",
+  "version": "1.0.0",
+  "description": "A clone of Flappy Bird using JS and Electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moodyssbm/flappy-square-ii.git"
+  },
+  "author": "Ethan Moody",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moodyssbm/flappy-square-ii/issues"
+  },
+  "homepage": "https://github.com/moodyssbm/flappy-square-ii#readme",
+  "devDependencies": {
+    "electron": "^1.6.2"
+  }
+}
